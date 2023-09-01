@@ -1,0 +1,42 @@
+.uber-button {
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    border: none;
+    cursor:pointer;
+    margin-right: 8px;
+}
+
+.amazon-button {
+    color:black;
+    width: 150px;
+    height: 35px;
+    border:none;
+    background-color: yellow;
+    border-radius: 18px;
+    margin-right: 8px;
+}
+
+.github-button {
+    color: white;
+    border: none;
+    border-radius: 10px;
+    background-color: green;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.bootstrap-button {
+    background-color: white;
+    border-width: 1px;
+    color: violet;
+    border-color: violet;
+    border: solid;
+    width: 100px;
+    height: 45px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
