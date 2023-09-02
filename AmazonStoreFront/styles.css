@@ -11,6 +11,10 @@
     border-radius: 12.5px;
 }
 
+.cart:hover {
+    color: red;
+}
+
 .buy  {
     color: black;
     background-color: rgb(210, 158, 14);
