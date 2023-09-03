@@ -40,3 +40,26 @@
     font-weight: bold;
 
 }
+
+.back-button {
+    cursor: pointer;
+    color: #ffffff;
+    background-color:#0a7912;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-right: 15px;
+    padding-left:15px ;
+    transition: background-color 1s ease-in-out;
+}
+
+
+.back-button:hover {
+    background-color: black;
+}
+
+.back-button:active {
+    cursor: progress;
+}

@@ -23,3 +23,12 @@
     border: none;
     border-radius: 12.5px;
 }
+
+
+.back-button {
+    cursor: pointer;
+    color: #dce4dd;
+    background-color:#0a7912;
+
+
+}
