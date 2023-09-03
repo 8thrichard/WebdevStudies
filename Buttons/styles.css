@@ -63,3 +63,18 @@
 .back-button:active {
     cursor: progress;
 }
+
+
+.video-title {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+    width: 320px;
+}
+
+.views {
+    color: rgb(163, 165, 166);
+    font-family: Arial;
+    font-size: 10px;
+    
+}
