@@ -1,97 +1,16 @@
-.uber-button {
-    color: white;
-    background-color: black;
-    width: 100px;
-    height: 40px;
-    border: none;
-    cursor:pointer;
-    margin-right: 8px;
-}
-
-.amazon-button {
-    color:black;
-    width: 150px;
-    height: 35px;
-    border:none;
-    background-color: yellow;
-    border-radius: 18px;
-    margin-right: 8px;
-}
-
-.github-button {
-    color: white;
-    border: none;
-    border-radius: 10px;
-    background-color: green;
-    width: 100px;
-    height: 40px;
-    cursor: pointer;
-}
-
-.bootstrap-button {
-    background-color: white;
-    border-width: 1px;
-    color: violet;
-    border-color: violet;
-    border: solid;
-    width: 100px;
-    height: 45px;
-    border-radius: 5px;
-    font-weight: bold;
-
-}
-
-.back-button {
-    cursor: pointer;
-    color: #ffffff;
-    background-color:#0a7912;
-    font-weight: bold;
-    border: none;
-    border-radius: 3px;
-    padding-top:10px ;
-    padding-bottom:10px ;
-    padding-right: 15px;
-    padding-left:15px ;
-    transition: background-color 1s ease-in-out;
+.model {
+    font-family: Montserrat;
+    text-align: center;
+    margin-bottom: o;
 }
 
 
-.back-button:hover {
-    background-color: black;
+.touchless {
+    text-decoration: underline;
 }
 
-.back-button:active {
-    cursor: progress;
-}
-
-
-.video-title {
-    font-family: Arial;
-    font-weight: bold;
-    font-size: 18px;
-    width: 320px;
-}
-
-.views {
-    color: rgb(163, 165, 166);
-    font-family: Arial;
-    font-size: 10px;
-    
-}
-
-.exe-5a {
-    font-size: 20px ;
-    font-family:  Tahoma;
-    font-weight: bold;
-}
-
-.sales {
-    color: rgb(169, 49, 49);
-    font-style: italic;
+.Underline {
+    font-family: Montserrat;
     margin-top: 0;
-}
-
-.Deal {
-    margin-bottom: 0;
-
+    text-align: center;
 }
